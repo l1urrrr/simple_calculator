@@ -1,4 +1,6 @@
 import time
+import art
+print(art.lo)
 
 
 def sum(n1,n2):
